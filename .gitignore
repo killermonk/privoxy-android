@@ -1,0 +1,8 @@
+*.o
+*.obj
+*.lib
+*.so
+*.dll
+*.swp
+.~
+thumbs.db
