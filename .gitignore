@@ -6,3 +6,4 @@
 *.swp
 .~
 thumbs.db
+config.log
