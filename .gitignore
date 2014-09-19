@@ -7,3 +7,5 @@
 .~
 thumbs.db
 config.log
+default.action
+privoxy
